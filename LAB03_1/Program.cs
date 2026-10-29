@@ -13,7 +13,7 @@
             int sum = a + b;
             int dif = a - b;
             int product = a * b;
-            double mean = (a + b) / 2.0;
+            double mean = (a + b) / 2;
 
             Console.WriteLine($"Сумма: {sum}");
             Console.WriteLine($"Разность: {dif}");
